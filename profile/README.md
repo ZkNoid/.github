@@ -13,4 +13,4 @@ There are verifiable games you can play now
 - Arkanoid game
 - Randzu game
 
-Lean more in [docs|https://docs.zknoid.io/docs]
+Lean more in [docs](https://docs.zknoid.io/docs)
