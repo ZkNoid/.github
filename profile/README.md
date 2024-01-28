@@ -7,3 +7,10 @@ L2 rollup based on protokit network enables gasless sessions, fast transactions
 While playing all your actions are accumulated inside a zero-knowledge circuit on the client side, ensuring verifiability of the game process while your strategy remains confidential
 
 Host fair competitions within your community and reward your most engaged fans - with no possibility of cheating
+
+# Games
+There are verifiable games you can play now
+- Arkanoid game
+- Randzu game
+
+Lean more in [docs|https://docs.zknoid.io/docs]
