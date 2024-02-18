@@ -15,4 +15,5 @@ There are verifiable games you can play now
 - Arkanoid game
 - Randzu game
 
-Lean more on [website](https://zknoid.io) or in [docs](https://docs.zknoid.io/docs). Become a part of the ZkNoid community, subscribe to our [twitter](https://twitter.com/ZkNoid)
+Lean more on [website](https://zknoid.io) or in [docs](https://docs.zknoid.io/docs). 
+Become a part of the ZkNoid community, subscribe to our [twitter](https://twitter.com/ZkNoid)
