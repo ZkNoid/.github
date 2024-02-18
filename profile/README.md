@@ -8,6 +8,8 @@ While playing all your actions are accumulated inside a zero-knowledge circuit o
 
 Host fair competitions within your community and reward your most engaged fans - with no possibility of cheating
 
+Launch you own ZK games using ready infrastructure and become a part of the platform economics
+
 # Games
 There are verifiable games you can play now
 - Arkanoid game
