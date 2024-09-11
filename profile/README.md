@@ -1,20 +1,21 @@
 # About ZkNoid
-ZkNoid - the gaming platform powered by zero knowledge proof technology based on MINA protocol.
+ZkNoid project is a home for provable gaming. On the platform you can try yourself the cutting edge games utilizing Zero-Knowledge proofs or build one using the provided infrastructure
 
-ZkNoid provides the united ecosystem for ZK gaming – developers can use SDK to be a part of the platform.
-L2 rollup based on protokit network enables gasless sessions, fast transactions
+Explore the world of fair gaming powered by cryptography. Here are the some benefits you can try
 
-While playing all your actions are accumulated inside a zero-knowledge circuit on the client side, ensuring verifiability of the game process while your strategy remains confidential
+__🙈 Information hiding.__ Imagine a battle where player can attack an opponent without revealing his hero’s skills. Zero knowledge proofs can prove literally everything while preserving the next level of data privacy control
 
-Host fair competitions within your community and reward your most engaged fans - with no possibility of cheating
+__🤝 Transparency and Trustworthiness.__ Provable games allow players to independently verify the fairness of any outcome. This transparency helps to build trust among players, as they know that the game cannot be rigged.
 
-Launch you own ZK games using ready infrastructure and become a part of the platform economics
+__📜 Immutable Records.__ Using blockchain technology, game outcomes and proof verifications are recorded in an immutable ledger, ensuring that none of the parties involved can alter the results afterwards.
 
-# Games
-There are verifiable games you can play now
-- Arkanoid game
-- Randzu game
+__💸 Low fees.__ Games on ZkNoid platform require to verify not the game logic execution BUT the cryptographic PROOF of the game logic execution. Block creators spend less effort on execution making the games playing cheaper
+
+__🥞 High scalability.__ Cryptography allows to connect different ZK native networks using proofs. Games can launch their own appchain solutions like protokit or use Zeko. Matchmaking can be moved to appchain to be free for players. Assets from Zeko network may be used in game
+
+ZkNoid project aims to on-ramp hundreds of projects to Zk-Proofs and grow new ZK-native games. Offering the required layers for easy and user-friendly integration of provable game mechanics, ZkNoid acts as the first publisher for games with zero knowledge support
+
 
 Lean more on [website](https://zknoid.io) or in [docs](https://docs.zknoid.io/docs). 
 
-Become a part of the ZkNoid community, subscribe to our [twitter](https://twitter.com/ZkNoid)
+Become a part of the ZkNoid community, join our [discord](https://discord.gg/hgJF94m5j9) and subscrube in [twitter](https://twitter.com/ZkNoid)
